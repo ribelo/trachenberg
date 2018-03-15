@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: net.cgrand/xforms:0.15.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/cgrand/xforms/0.15.0/xforms-0.15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

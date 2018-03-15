@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8174d2fe-9665-4a67-9589-f4ee27a901a5" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="trachenberg" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="project.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="40" lean-forward="false" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wikidata.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/trachenberg/wikidata.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1495">
+              <caret line="65" column="12" lean-forward="false" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trump.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/trachenberg/trump.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/trachenberg/core.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="966">
+              <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="playground.clj" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/trachenberg/playground.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trump.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trump.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3059">
+              <caret line="133" column="2" lean-forward="false" selection-start-line="133" selection-start-column="2" selection-end-line="133" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="f_us_d.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/stock_data/f_us_d.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alpha_vantage.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/trachenberg/alpha_vantage.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="language.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/trachenberg/language.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Clojure Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>magnitude</find>
+      <find>juxt</find>
+      <find>sentime</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/trachenberg/analysis.clj" />
+        <option value="$PROJECT_DIR$/src/trachenberg/twitter.clj" />
+        <option value="$PROJECT_DIR$/src/trachenberg/wikidata.clj" />
+        <option value="$PROJECT_DIR$/src/trachenberg/language.clj" />
+        <option value="$PROJECT_DIR$/src/trachenberg/alpha_vantage.clj" />
+        <option value="$PROJECT_DIR$/src/trachenberg/core.clj" />
+        <option value="$PROJECT_DIR$/src/trachenberg/trump.clj" />
+        <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/trump.json" />
+        <option value="$PROJECT_DIR$/src/trachenberg/playground.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="13" />
+    <option name="y" value="12" />
+    <option name="width" value="1340" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="trachenberg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trachenberg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trachenberg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trachenberg" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trachenberg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trachenberg" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="stock_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trachenberg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trachenberg" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="trump_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trachenberg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trachenberg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trachenberg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trachenberg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="trachenberg" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project.clj" />
+    <property name="cursive.last.file.extension./home/huxley/code/clojure/trachenberg/src" value="clj" />
+  </component>
+  <component name="ReplState" timestamp="1515165329906">{:repl-history {:ide [], :local [{:command &quot;(first @db)&quot;, :offset 11, :ns &quot;trachenberg.core&quot;} {:command &quot;(ns trachenberg.core\n  (:require [clojure.core.async :refer [go go-loop]]\n            [trachenberg.trump :as trump]\n            [trachenberg.wikidata :as wiki]\n            [trachenberg.language :as lang]\n            [cheshire.core :as json]\n            [cheshire.generate :as json-generate]\n            [clj-time.]))&quot;, :offset 316, :ns &quot;user&quot;} {:command &quot;(json/generate-string (first @db))&quot;, :offset 34, :ns &quot;trachenberg.core&quot;} {:command &quot;(spit \&quot;trump.json\&quot; (json/generate-string @db {:pretty true}))&quot;, :offset 61, :ns &quot;trachenberg.core&quot;} {:command &quot;(defn mytest [{:or {a 1 b 2}\n               :as m}])&quot;, :offset 52, :ns &quot;trachenberg.alpha-vantage&quot;} {:command &quot;(ns trachenberg.alpha-vantage\n  (:require [cheshire.core :as json]\n            [aleph.http :as http]\n            [byte-streams :as bs]\n            [cuerdas.core :as str]))&quot;, :offset 171, :ns &quot;user&quot;} {:command &quot;(mytest )&quot;, :offset 9, :ns &quot;trachenberg.alpha-vantage&quot;} {:command &quot;(mytest {})&quot;, :offset 11, :ns &quot;trachenberg.alpha-vantage&quot;} {:command &quot;(defn mytest [{:or {a 1 b 2}\n               :as m}]\n  m)&quot;, :offset 56, :ns &quot;trachenberg.alpha-vantage&quot;} {:command &quot;(defn mytest [{:keys [a b]\n               :or {a 1 b 2}\n               :as m}]\n  m)&quot;, :offset 83, :ns &quot;trachenberg.alpha-vantage&quot;} {:command &quot;(defn mytest [{:keys [a b]\n               :or {a 1 b 2}\n               :as m}]\n  [a b m])&quot;, :offset 89, :ns &quot;trachenberg.alpha-vantage&quot;} {:command &quot;(mytest {:a 2})&quot;, :offset 15, :ns &quot;trachenberg.alpha-vantage&quot;} {:command &quot;(defn api-request [opts]\n  (-&gt;&gt; (http/get \&quot;https://www.alphavantage.co/query\&quot;\n                 {:query-params opts})\n       (deref)\n       :body\n       (bs/to-string)\n       (json/parse-string str/kebab)))&quot;, :offset 205, :ns &quot;trachenberg.alpha-vantage&quot;} {:command &quot;(defn intraday [{:keys [symbol interval output-size datatype api-key]}]\n  (api-request {:symbol symbol\n                :interval interval\n                :output-size (or output-size \&quot;compact\&quot;)\n                :datatype (or datatype \&quot;json\&quot;)\n                :api-key (or api-key \&quot;KXBF0O72IMTLQ7XB\&quot;)}))&quot;, :offset 300, :ns &quot;trachenberg.alpha-vantage&quot;} {:command &quot;(intraday {:symbol \&quot;msft\&quot;\n           :interval \&quot;15m\&quot;})&quot;, :offset 54, :ns &quot;trachenberg.alpha-vantage&quot;} {:command &quot;(defn api-request [opts]\n  (-&gt; (http/get \&quot;https://www.alphavantage.co/query\&quot;\n                {:query-params opts})\n      (deref)\n      :body\n      (bs/to-string)\n      (json/parse-string str/kebab)))&quot;, :offset 199, :ns &quot;trachenberg.alpha-vantage&quot;} {:command &quot;(defn intraday [{:keys [symbol interval output-size datatype api-key]}]\n  (api-request {:function    \&quot;TIME_SERIES_INTRADAY\&quot;\n                :symbol      (name symbol)\n                :interval    interval\n                :output-size (or output-size \&quot;compact\&quot;)\n                :datatype    (or datatype \&quot;json\&quot;)\n                :api-key     (or api-key \&quot;KXBF0O72IMTLQ7XB\&quot;)}))&quot;, :offset 374, :ns &quot;trachenberg.alpha-vantage&quot;} {:command &quot;(intraday {:symbol   \&quot;msft\&quot;\n           :interval \&quot;15m\&quot;})&quot;, :offset 56, :ns &quot;trachenberg.alpha-vantage&quot;} {:command &quot;(defn intraday [{:keys [symbol interval output-size datatype api-key]}]\n  (api-request {:function    \&quot;TIME_SERIES_INTRADAY\&quot;\n                :symbol      (name symbol)\n                :interval    interval\n                :output-size (or output-size \&quot;compact\&quot;)\n                :datatype    (or datatype \&quot;json\&quot;)\n                :apikey     (or api-key \&quot;KXBF0O72IMTLQ7XB\&quot;)}))&quot;, :offset 373, :ns &quot;trachenberg.alpha-vantage&quot;} {:command &quot;(intraday {:symbol   \&quot;MSFT\&quot;\n           :interval \&quot;60min\&quot;})&quot;, :offset 58, :ns &quot;trachenberg.alpha-vantage&quot;} {:command &quot;(ns trachenberg.playground)&quot;, :offset 27, :ns &quot;user&quot;} {:command &quot;(ns trachenberg.playground\n  (:require [cheshire.core :as json]))&quot;, :offset 65, :ns &quot;user&quot;} {:command &quot;(def data (json/parse-string (slurp \&quot;trump.json\&quot;)))&quot;, :offset 51, :ns &quot;trachenberg.playground&quot;} {:command &quot;(ns trachenberg.playground\n  (:require [cheshire.core :as json]\n            [cuerdas.core :as str]))&quot;, :offset 100, :ns &quot;user&quot;} {:command &quot;(def data (json/parse-string (slurp \&quot;trump.json\&quot;) str/keyword))&quot;, :offset 63, :ns &quot;trachenberg.playground&quot;} {:command &quot;(ns trachenberg.wikidata\n  (:require [clj-http.client :as client]\n            [cheshire.core :as json]\n            [aleph.http :as http]\n            [byte-streams :as bs]\n            [trachenberg.language :as lang]))&quot;, :offset 216, :ns &quot;user&quot;} {:command &quot;(defn mid-to-ticker-query [company-mid]\n  (format\n    \&quot;SELECT ?companyLabel ?rootLabel ?tickerLabel ?exchangeNameLabel\n     WHERE {?entity wdt:P646 \\\&quot;%s\\\&quot; .\n     ?entity wdt:P176* ?manufacturer .\n     ?manufacturer wdt:P156* ?company .\n     { ?company p:P414 ?exchange } UNION\n     { ?company wdt:P127+ / wdt:P156* ?root .\n     ?root p:P414 ?exchange } UNION\n     { ?company wdt:P749+ / wdt:P156* ?root .\n     ?root p:P414 ?exchange } .\n     VALUES ?exchanges { wd:Q13677 wd:Q82059 } .\n     ?exchange ps:P414 ?exchanges .\n     ?exchange pq:P249 ?ticker .\n     ?exchange ps:P414 ?exchangeName .\n     FILTER NOT EXISTS { ?company wdt:P31 /\n     wdt:P279* wd:Q1616075 } .\n     FILTER NOT EXISTS { ?company wdt:P31 /\n     wdt:P279* wd:Q11032 } .\n     SERVICE wikibase:label { bd:serviceParam wikibase:language \\\&quot;en\\\&quot; . } }\n     GROUP BY ?companyLabel ?rootLabel ?tickerLabel ?exchangeNameLabel\n     ORDER BY ?companyLabel ?rootLabel ?tickerLabel ?exchangeNameLabel\&quot;\n    company-mid))&quot;, :offset 979, :ns &quot;trachenberg.wikidata&quot;} {:command &quot;(lang/text-&gt;entities \&quot;Apple said will build a new plant in Baja, Mexico, to build Corolla cars for U.S. NO WAY! Build plant in U.S. or pay big border tax.\&quot;)&quot;, :offset 156, :ns &quot;trachenberg.wikidata&quot;} {:command &quot;(defn mid-&gt;company-ticker [mid]\n  (let [{{company :value}  :companyLabel\n         {ticker :value}   :tickerLabel\n         {exchange :value} :exchangeNameLabel}\n        (-&gt; (http/get \&quot;https://query.wikidata.org/sparql\&quot;\n                        {:query-params  {:query (mid-to-ticker-query mid)}\n                         :accept        :json\n                         :client-params {:cookie-policy (constantly nil)}})\n            (deref)\n            :body\n            bs/to-string\n            (json/parse-string keyword)\n            (get-in [:results :bindings])\n            (first))]\n    (when ticker\n      {:company  company\n       :ticker   ticker\n       :exchange exchange})))&quot;, :offset 677, :ns &quot;trachenberg.wikidata&quot;} {:command &quot;(defn filter-organizations [xs]\n  (-&gt;&gt; xs\n       (filter #(#{\&quot;ORGANIZATION\&quot;} (:type %)))))&quot;, :offset 90, :ns &quot;trachenberg.wikidata&quot;} {:command &quot;(defn entity-&gt;company-ticker [entity]\n  (mid-&gt;company-ticker (get-in entity [:metadata :mid])))&quot;, :offset 95, :ns &quot;trachenberg.wikidata&quot;} {:command &quot;(defn entities-&gt;company-tickers [entities]\n  (-&gt;&gt; entities\n       (map #(entity-&gt;company-ticker %))\n       (filter identity)\n       (distinct)))&quot;, :offset 144, :ns &quot;trachenberg.wikidata&quot;} {:command &quot;(ns trachenberg.core\n  (:require [clojure.core.async :refer [go go-loop]]\n            [trachenberg.trump :as trump]\n            [trachenberg.wikidata :as wiki]\n            [trachenberg.language :as lang]\n            [cheshire.core :as json]\n            [cheshire.generate :as json-generate]\n            [clj-time.coerce :as dtc]))&quot;, :offset 330, :ns &quot;user&quot;} {:command &quot;(def db (atom []))&quot;, :offset 18, :ns &quot;trachenberg.core&quot;} {:command &quot;(def rest-data (atom nil))&quot;, :offset 26, :ns &quot;trachenberg.core&quot;} {:command &quot;(def stop? (atom false))&quot;, :offset 24, :ns &quot;trachenberg.core&quot;} {:command &quot;(defn add-stocks-sentiment [{:keys [text] :as twitt}]\n  (let [sentiment (lang/test-&gt;sentiment-score text)\n        entities (lang/text-&gt;entities text)\n        stocks (-&gt;&gt; entities\n                    (map #(wiki/entity-&gt;company-ticker %))\n                    (filter identity)\n                    (distinct)\n                    (map #(assoc % :sentiment sentiment))\n                    (not-empty))]\n    (assoc twitt :stocks stocks)))&quot;, :offset 433, :ns &quot;trachenberg.core&quot;} {:command &quot;(json-generate/add-encoder\n  org.joda.time.DateTime\n  (fn [data jsonGenerator]\n    (.writeString jsonGenerator (dtc/to-string data))))&quot;, :offset 134, :ns &quot;trachenberg.core&quot;} {:command &quot;(ns trachenberg.trump\n  (:require [clojure.java.io :as io]\n            [cheshire.core :as json]\n            [cuerdas.core :as str]\n            [clj-time.format :as dtf]))&quot;, :offset 170, :ns &quot;user&quot;} {:command &quot;(def data\n  (-&gt; \&quot;trump_data/2017.json\&quot;\n      (io/resource)\n      (slurp)\n      (json/parse-string str/keyword)\n      (-&gt;&gt; (map (fn [m] (update m :created-at #(dtf/parse (dtf/formatter \&quot;EEE MMM dd HH:mm:ss Z YYYY\&quot;) %)))))))&quot;, :offset 222, :ns &quot;trachenberg.trump&quot;} {:command &quot;(first data)&quot;, :offset 12, :ns &quot;trachenberg.playground&quot;} {:command &quot;(ns trachenberg.playground\n  (:require [cheshire.core :as json]\n            [cuerdas.core :as str]\n            [net.cgrand.xform :as x]))&quot;, :offset 137, :ns &quot;user&quot;} {:command &quot;(ns trachenberg.playground\n  (:require [cheshire.core :as json]\n            [cuerdas.core :as str]\n            [net.cgrand.xforms :as x]))&quot;, :offset 138, :ns &quot;user&quot;} {:command &quot;(sequence\n  (comp\n    (map :stocks)\n    (x/last))\n  data)&quot;, :offset 57, :ns &quot;trachenberg.playground&quot;} {:command &quot;(sequence\n  (comp\n    (map :stocks)\n    (first))\n  data)&quot;, :offset 56, :ns &quot;trachenberg.playground&quot;} {:command &quot;(first (sequence\n   (comp\n     (map :stocks))\n   data))&quot;, :offset 55, :ns &quot;trachenberg.playground&quot;} {:command &quot;(sequence\n  (comp\n    (map :stocks))\n  data)&quot;, :offset 44, :ns &quot;trachenberg.playground&quot;} {:command &quot;(sequence\n  (comp\n    (map :stocks)\n    (filter identity))\n  data)&quot;, :offset 66, :ns &quot;trachenberg.playground&quot;} {:command &quot;(count (sequence\n   (comp\n     (map :stocks)\n     (filter identity))\n   data))&quot;, :offset 78, :ns &quot;trachenberg.playground&quot;} {:command &quot;(count (sequence\n   (comp\n     (map :stocks)\n     (filter identity)\n     (filter #(not= 0.0 (:sentiment %))))\n   data))&quot;, :offset 119, :ns &quot;trachenberg.playground&quot;} {:command &quot;(sequence\n  (comp\n    (map :stocks)\n    (filter identity)\n    (filter #(not= 0.0 (:sentiment %))))\n  data)&quot;, :offset 106, :ns &quot;trachenberg.playground&quot;} {:command &quot;(sequence\n  (comp\n    (map :stocks)\n    (filter identity)\n    (flatten)\n    (filter #(not= 0.0 (:sentiment %))))\n  data)&quot;, :offset 120, :ns &quot;trachenberg.playground&quot;} {:command &quot;(take 10 data)&quot;, :offset 14, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (map :stocks)\n     (filter identity))&quot;, :offset 52, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (map :stocks)\n     (filter identity)\n     (flatten))&quot;, :offset 67, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (map :stocks)\n     (filter identity)\n     (flatten)\n     (filter #(not= (:sentiment %))))&quot;, :offset 104, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (map :stocks)\n     (filter identity)\n     (flatten)\n     (filter #(not= 0 (:sentiment %))))&quot;, :offset 106, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (map :stocks)\n     (filter identity)\n     (flatten)\n     (filter #(not= 0 (:sentiment %)))\n     (count))&quot;, :offset 119, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (map :stocks)\n     (filter identity)\n     (flatten)\n     (filter #(not= 0 (:sentiment %)))\n     (map (juxt :company :ticker)))&quot;, :offset 141, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (map :stocks)\n     (filter identity)\n     (flatten)\n     (filter #(not= 0 (:sentiment %)))\n     (map (juxt :company :ticker))\n     (count))&quot;, :offset 154, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (map :stocks)\n     (filter identity)\n     (flatten)\n     (filter #(not= 0 (:sentiment %)))\n     (map (juxt :company :ticker))\n     (distinct)\n     (count))&quot;, :offset 170, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (map :stocks)\n     (filter identity)\n     (flatten)\n     (filter #(not= 0 (:sentiment %)))\n     (map (juxt :company :ticker))\n     (distinct))&quot;, :offset 157, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(identity (:stocks %)))\n     (flatten)\n     (filter #(not= 0 (:sentiment %)))\n     (map (juxt :company :ticker))\n     (distinct)\n     )&quot;, :offset 159, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(identity (:stocks %)))\n     ;(flatten)\n     ;(filter #(not= 0 (:sentiment %)))\n     ;(map (juxt :company :ticker))\n     (distinct)\n     )&quot;, :offset 162, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(identity (:stocks %)))\n     ;(flatten)\n     ;(filter #(not= 0 (:sentiment %)))\n     ;(map (juxt :company :ticker))\n     ;(distinct)\n     )&quot;, :offset 163, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(identity (:stocks %)))\n     ;(flatten)\n     ;(filter #(not= 0 (:sentiment %)))\n     ;(map (juxt :company :ticker))\n     ;(distinct)\n     (count)\n     )&quot;, :offset 176, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(identity (:stocks %)))\n     (sort-by :created-at)\n     )&quot;, :offset 81, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(and (identity (:stocks %))\n                   (-&gt;&gt; % :stocks (first) :sentiment not=)))\n     (sort-by :created-at)\n     )&quot;, :offset 146, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(and (identity (:stocks %))\n                   (-&gt;&gt; % :stocks (first) :sentiment)))\n     (sort-by :created-at)\n     )&quot;, :offset 141, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(and (identity (:stocks %))\n                   (-&gt;&gt; % :stocks (first) :sentiment #(not= 0.0 %))))\n     (sort-by :created-at)\n     )&quot;, :offset 155, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(and (identity (:stocks %))\n                   (-&gt;&gt; % :stocks (first) :sentiment (fn [x] (not= 0.0 x)))))\n     (sort-by :created-at)\n     )&quot;, :offset 163, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     ;(filter #(and (identity (:stocks %))\n     ;              (-&gt;&gt; % :stocks (first) :sentiment (fn [x] (not= 0.0 x)))))\n     ;(sort-by :created-at)\n     (map #(-&gt;&gt; % :stocks (first) :sentiment (fn [x] (not= 0.0 x)))))&quot;, :offset 229, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     ;(filter #(and (identity (:stocks %))\n     ;              (-&gt;&gt; % :stocks (first) :sentiment (fn [x] (not= 0.0 x)))))\n     ;(sort-by :created-at)\n     (map #(-&gt;&gt; % :stocks (first) :sentiment ((fn [x] (not= 0.0 x))))))&quot;, :offset 231, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(and (identity (:stocks %))\n                   (-&gt;&gt; % :stocks (first) :sentiment ((fn [x] (not= 0.0 x))))))\n     (sort-by :created-at)\n     )&quot;, :offset 165, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(and (identity (:stocks %))\n                   (-&gt;&gt; % :stocks (first) :sentiment ((fn [x] (not= 0.0 x))))))\n     (sort-by :created-at)\n     (count)\n     )&quot;, :offset 178, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     ;(filter #(and (identity (:stocks %))\n     ;              (-&gt;&gt; % :stocks (first) :sentiment (fn [x] (not= 0.0 x)))))\n     ;(sort-by :created-at)\n     (map #(-&gt;&gt; % :stocks (first) :sentiment )))&quot;, :offset 208, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     ;(filter #(and (identity (:stocks %))\n     ;              (-&gt;&gt; % :stocks (first) :sentiment (fn [x] (not= 0.0 x)))))\n     ;(sort-by :created-at)\n     (map #(-&gt;&gt; % :stocks (first))))&quot;, :offset 196, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(and (identity (:stocks %))))\n     ;(sort-by :created-at)\n     (map #(-&gt;&gt; % :stocks (first))))&quot;, :offset 118, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(and (identity (:stocks %))))\n     ;(sort-by :created-at)\n     (map #(-&gt;&gt; % :stocks (first) :sentiment)))&quot;, :offset 129, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(and (identity (:stocks %))))\n     ;(sort-by :created-at)\n     (map #(-&gt;&gt; % :stocks (first) :sentiment ((fn [x] (not= 0))))))&quot;, :offset 149, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(and (identity (:stocks %))))\n     ;(sort-by :created-at)\n     (map #(-&gt;&gt; % :stocks (first) :sentiment ((fn [x] (not= 0.0))))))&quot;, :offset 151, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(and (identity (:stocks %))))\n     ;(sort-by :created-at)\n     (map #(-&gt;&gt; % :stocks (first) :sentiment ((fn [x] (not= 0.0 x))))))&quot;, :offset 153, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(and (identity (:stocks %))))\n     ;(sort-by :created-at)\n     (map #(-&gt;&gt; % :stocks (first) :sentiment )))&quot;, :offset 130, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(and (identity (:stocks %))))\n     ;(sort-by :created-at)\n     (map #(-&gt;&gt; % :stocks (first) :sentiment ((fn [x] (not= 0 x))))))&quot;, :offset 151, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(and (identity (:stocks %))))\n     (filter #(-&gt;&gt; % :stocks (first) :sentiment ((fn [x] (not= 0 x)))))\n     (sort-by :created-at)\n     (count))&quot;, :offset 166, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(and (identity (:stocks %))))\n     (filter #(or (-&gt;&gt; % :stocks (first) :sentiment ((fn [x] (not= 0 x))))\n                  (-&gt;&gt; % :stocks (last) :sentiment ((fn [x] (not= 0 x))))))\n     (sort-by :created-at)\n     (count))&quot;, :offset 245, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (filter #(and (identity (:stocks %))))\n     (filter #(-&gt;&gt; % :stocks (first) :sentiment ((fn [x] (not= 0 x)))))\n     (sort-by :created-at)\n     )&quot;, :offset 159, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (map (fn [{:keys [text stocks created-at] :as m}]\n            (for [{:keys [sentiment] :as stock} stocks]\n              (when (not= 0 sentiment)\n                (assoc m :created-at created-at\n                         :text text)))))\n     (filter identity))&quot;, :offset 272, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (map (fn [{:keys [text stocks created-at] :as m}]\n            (for [{:keys [sentiment] :as stock} stocks]\n              (when (not= 0 sentiment)\n                (assoc m :created-at created-at\n                         :text text)))))\n     (filter not-empty))&quot;, :offset 273, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (map (fn [{:keys [text stocks created-at] :as m}]\n            (for [{:keys [sentiment] :as stock} stocks]\n              (when (not= 0 sentiment)\n                (assoc m :created-at created-at\n                         :text text)))))\n     (flatten))&quot;, :offset 264, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (map (fn [{:keys [text stocks created-at] :as m}]\n            (for [{:keys [sentiment] :as stock} stocks]\n              (when (not= 0 sentiment)\n                (assoc m :created-at created-at\n                         :text text)))))\n     (flatten)\n     (filter identity)\n     (count))&quot;, :offset 300, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (map (fn [{:keys [text stocks created-at] :as m}]\n            (for [{:keys [sentiment] :as stock} stocks]\n              (when (not= 0 sentiment)\n                (assoc m :created-at created-at\n                         :text text)))))\n     (flatten)\n     (filter identity))&quot;, :offset 287, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (map (fn [{:keys [text stocks created-at] :as m}]\n            (for [{:keys [sentiment] :as stock} stocks]\n              (when (not= 0 sentiment)\n                (assoc stock :created-at created-at\n                         :text text)))))\n     (flatten)\n     (filter identity))&quot;, :offset 291, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (map (fn [{:keys [text stocks created-at] :as m}]\n            (for [{:keys [sentiment] :as stock} stocks]\n              (when (not= 0 sentiment)\n                (assoc stock :created-at created-at\n                         :text text)))))\n     (flatten)\n     (filter identity)\n     (sort-by :created-at))&quot;, :offset 318, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (map (fn [{:keys [text stocks created-at] :as m}]\n            (for [{:keys [sentiment] :as stock} stocks]\n              (when (not= 0 sentiment)\n                (assoc stock :created-at created-at\n                         :text text)))))\n     (flatten)\n     (filter identity)\n     (sort-by :created-at)\n     (group-by :company)\n     (count))&quot;, :offset 356, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; data\n     (map (fn [{:keys [text stocks created-at] :as m}]\n            (for [{:keys [sentiment] :as stock} stocks]\n              (when (not= 0 sentiment)\n                (assoc stock :created-at created-at\n                         :text text)))))\n     (flatten)\n     (filter identity)\n     (sort-by :created-at)\n     (group-by :company))&quot;, :offset 343, :ns &quot;trachenberg.playground&quot;} {:command &quot;(spit \&quot;trades.json\&quot;\n      (-&gt;&gt; data\n           (map (fn [{:keys [text stocks created-at] :as m}]\n                  (for [{:keys [sentiment] :as stock} stocks]\n                    (when (not= 0 sentiment)\n                      (assoc stock :created-at created-at\n                                   :text text)))))\n           (flatten)\n           (filter identity)\n           (sort-by :created-at)\n           (json/generate-string)))&quot;, :offset 431, :ns &quot;trachenberg.playground&quot;} {:command &quot;(def trades\n  (-&gt;&gt; data\n       (map (fn [{:keys [text stocks created-at] :as m}]\n              (for [{:keys [sentiment] :as stock} stocks]\n                (when (not= 0 sentiment)\n                  (assoc stock :created-at created-at\n                               :text text)))))\n       (flatten)\n       (filter identity)\n       (sort-by :created-at)\n       (json/generate-string)))&quot;, :offset 383, :ns &quot;trachenberg.playground&quot;} {:command &quot;(def trades\n  (-&gt;&gt; data\n       (map (fn [{:keys [text stocks created-at] :as m}]\n              (for [{:keys [sentiment] :as stock} stocks]\n                (when (not= 0 sentiment)\n                  (assoc stock :created-at created-at\n                               :text text)))))\n       (flatten)\n       (filter identity)\n       (sort-by :created-at)))&quot;, :offset 353, :ns &quot;trachenberg.playground&quot;} {:command &quot;(-&gt;&gt; trades\n     (first))&quot;, :offset 25, :ns &quot;trachenberg.playground&quot;} {:command &quot;(def trade (first trades))&quot;, :offset 26, :ns &quot;trachenberg.playground&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Clojure REPL.lein">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="lein" type="ClojureREPL" factoryName="Local">
+      <setting name="replType" value="1" />
+      <module name="trachenberg" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8174d2fe-9665-4a67-9589-f4ee27a901a5" name="Default" comment="" />
+      <created>1511527582844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511527582844</updated>
+      <workItem from="1511527589923" duration="1578000" />
+      <workItem from="1511529914166" duration="6764000" />
+      <workItem from="1511606788054" duration="5809000" />
+      <workItem from="1511622201803" duration="7269000" />
+      <workItem from="1512735509085" duration="2204000" />
+      <workItem from="1514630180432" duration="801000" />
+      <workItem from="1515153806055" duration="9563000" />
+      <workItem from="1521152915359" duration="1167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35155000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="13" y="12" width="1340" height="743" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2612403" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19689922" sideWeight="0.49448818" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1493808" sideWeight="0.5055118" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="40" lean-forward="false" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/wikidata.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1495">
+          <caret line="65" column="12" lean-forward="false" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/trump.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trump.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3059">
+          <caret line="133" column="2" lean-forward="false" selection-start-line="133" selection-start-column="2" selection-end-line="133" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/stock_data/f_us_d.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/alpha_vantage.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/language.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/playground.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="82" column="13" lean-forward="true" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/wikidata.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="4" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/trump.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/alpha_vantage.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/language.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/playground.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="true" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/wikidata.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="4" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/trump.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/language.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/alpha_vantage.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/wikidata.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/trump.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/language.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="44" column="33" lean-forward="true" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/wikidata.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="156" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/trump.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/language.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/wikidata.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/language.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="2" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="47" lean-forward="false" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/wikidata.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/language.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/aleph/aleph/0.4.4/aleph-0.4.4.jar!/aleph/http.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="299" column="13" lean-forward="true" selection-start-line="299" selection-start-column="13" selection-end-line="299" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/stock_data/f_us_d.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/trump.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/wikidata.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1495">
+          <caret line="65" column="12" lean-forward="false" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/alpha_vantage.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/language.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="40" lean-forward="false" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trump.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3059">
+          <caret line="133" column="2" lean-forward="false" selection-start-line="133" selection-start-column="2" selection-end-line="133" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trachenberg/playground.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
