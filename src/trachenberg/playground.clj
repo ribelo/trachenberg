@@ -2,6 +2,7 @@
   (:require [cheshire.core :as json]
             [clojure.data.csv :as csv]
             [clojure.java.io :as io]
+            [taoensso.encore :as e]
             [cuerdas.core :as str]
             [clj-time.core :as dt]
             [clj-time.format :as dtf]
@@ -21,7 +22,8 @@
        (filter identity)
        (sort-by :created-at)))
 
-(def trade (first @trades))
+(def trade (first trades))
+(count trades)
 
 (defn get-stock-data [ticker]
   (with-open [reader (io/reader (str "resources/stock_data/" (str/lower ticker) "_us_d.csv"))]
